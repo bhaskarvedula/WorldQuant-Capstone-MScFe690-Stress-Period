@@ -67,7 +67,7 @@ For analysis of best performing algorithm and RL agent with the buy and hold str
 
 # **Code explanation**
 
-The code written **(Main notebook.ipynb)** for this capstone has been compartmentalized as multiple section with each section capturing a particular functionality or activity. This is to enable ease of understanding the entire code.
+The code written **(MainNotebookStress.ipynb)** for this capstone has been compartmentalized as multiple section with each section capturing a particular functionality or activity. This is to enable ease of understanding the entire code.
 
 ## *Section 1: Python library installations and imports*
 
